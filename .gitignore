@@ -1,0 +1,6 @@
+bin
+.vscode
+controle_escolar.db
+controle_escolar.db.sql
+obj
+migrations
